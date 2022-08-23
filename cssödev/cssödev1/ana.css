@@ -1,0 +1,102 @@
+ .anasayfa {
+background-color:black;
+color: white;
+font-family:monospace ;
+}
+
+.kutular {
+ font-size:80px ;
+
+ 
+
+color:white;
+
+}
+
+.onyazı {
+    font-size:18px ;
+
+color:purple ;
+
+}
+
+.baslık3{
+font-size:35px ;
+
+}
+
+.liste {
+
+position:relative ;
+left: 750px;
+font-size:25px ;
+
+}
+
+.alt{
+    position: relative;
+    left:200px ;
+    top:150px ;
+}
+
+.ciz {
+
+    position: relative;
+    top:150px }
+
+    .anasayfa-gun {
+        position:relative ;
+     left: 550px;
+     width:600px;
+        
+  }
+  .urun-baslık {
+
+font: size 180px;
+
+color:purple ;
+  
+
+}
+
+.ürünler {
+font-size:25px;
+backgroun-color:beige;
+font-family:monospace ;
+}
+
+.tabanca{
+
+    position:relative ;
+    left: 520px;
+    width:500px;
+}
+
+.tufek {
+    position:relative ;
+    left: 300px;
+    width:100px;
+  
+}
+
+.tufek2 {
+
+    position:relative ;
+    left: 520px;
+    width:500px;
+}
+.yelek{
+
+    position:relative ;
+    left: 510px;
+    width:400px;    
+}
+
+.tel{
+    left:350px;
+   position: relative;
+    height:550px;
+    width: 550px; 
+
+
+}
